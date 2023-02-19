@@ -1,0 +1,17 @@
+{
+  "sqltools.connections": [
+    {
+      "mysqlOptions": {
+        "authProtocol": "default"
+      },
+      "previewLimit": 50,
+      "server": "onecpeappdev.csuln5njtxj4.us-east-1.rds.amazonaws.com",
+      "port": 3306,
+      "driver": "MySQL",
+      "name": "Onecpe",
+      "database": "onecpedev",
+      "username": "onecpe",
+      "password": "onecpe123"
+    }
+  ]
+}
